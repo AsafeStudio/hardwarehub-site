@@ -1,0 +1,42 @@
+
+[
+  {
+    "id": "1",
+    "name": "Kingston NV2 1TB NVMe Gen4",
+    "category": "SSD",
+    "description": "SSD NVMe M.2 com interface PCIe 4.0. Oferece velocidades de leitura de até 3500MB/s. Recomendado para sistemas modernos que buscam agilidade no carregamento de SO e jogos.",
+    "links": {
+      "amazon": "https://www.amazon.com.br",
+      "mercadolivre": "https://www.mercadolivre.com.br"
+    }
+  },
+  {
+    "id": "2",
+    "name": "Crucial Pro 32GB (2x16GB) DDR4 3200MHz",
+    "category": "RAM",
+    "description": "Kit de memória RAM de alta densidade. Ideal para produtividade e multitarefa pesada. Compatível com a maioria das placas-mãe AM4 e LGA1200.",
+    "links": {
+      "amazon": "https://www.amazon.com.br",
+      "shopee": "https://shopee.com.br"
+    }
+  },
+  {
+    "id": "3",
+    "name": "NVIDIA GeForce RTX 4060 Ti",
+    "category": "GPU",
+    "description": "Placa de vídeo de nova geração com foco em eficiência energética e DLSS 3. Recomendada para jogos em 1080p Ultra com altas taxas de quadros.",
+    "links": {
+      "amazon": "https://www.amazon.com.br",
+      "mercadolivre": "https://www.mercadolivre.com.br"
+    }
+  },
+  {
+    "id": "4",
+    "name": "MSI MAG A650BN 650W 80 Plus Bronze",
+    "category": "Fonte",
+    "description": "Fonte de alimentação confiável com certificação 80 Plus Bronze. Fornece energia estável para setups de entrada e intermediários.",
+    "links": {
+      "amazon": "https://www.amazon.com.br"
+    }
+  }
+]

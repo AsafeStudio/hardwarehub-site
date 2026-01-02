@@ -1,0 +1,17 @@
+
+[
+  {
+    "id": "guia-ssd",
+    "title": "Migração para SSD NVMe",
+    "category": "Armazenamento",
+    "excerpt": "Entenda por que trocar seu HD mecânico por um SSD é o upgrade mais impactante que você pode fazer hoje.",
+    "content": "A transição de um disco rígido (HDD) para um SSD NVMe reduz drasticamente os tempos de boot e carregamento de softwares. Enquanto um HD opera a cerca de 150MB/s, um SSD NVMe de entrada alcança 3000MB/s. Verifique se sua placa-mãe possui o slot M.2 com suporte a PCIe."
+  },
+  {
+    "id": "guia-ram",
+    "title": "Upgrade de Memória RAM",
+    "category": "Performance",
+    "excerpt": "Descubra quando 16GB não são mais suficientes e por que o Dual Channel é obrigatório para performance.",
+    "content": "Para jogos modernos e edição de vídeo, 16GB é o padrão mínimo. Ao realizar o upgrade, priorize sempre kits de dois pentes (ex: 2x8GB ou 2x16GB) para ativar o Dual Channel, o que dobra a largura de banda de comunicação com o processador."
+  }
+]
